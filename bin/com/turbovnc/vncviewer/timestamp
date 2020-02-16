@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: com.turbovnc.vncviewer.VncViewer
+Package-Date: 2019-11-20
+Package-Time: 22:52:11
+Version: 2.1.91
+Build: 20191120
+Copyright-Year: 1999-2018
+Copyright: The VirtualGL Project and many others (see README.txt)
+URL: Visit http://www.TurboVNC.org for more information on TurboVNC

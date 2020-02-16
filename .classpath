@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/ffmpeg-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/opencv.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/artoolkitplus.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/ffmpeg.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/flandmark.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/flycapture.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/javacpp.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/leptonica.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/libdc1394.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/libfreenect.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/libfreenect2.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/librealsense.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/openblas.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/tesseract.jar"/>
+	<classpathentry kind="lib" path="/home/jlucas/JAVA_WRAPPER/javacv-platform-1.5.2-bin/videoinput.jar"/>
+	<classpathentry kind="lib" path="/opt/libjpeg-turbo/classes/turbojpeg.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
